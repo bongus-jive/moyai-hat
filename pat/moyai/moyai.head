@@ -1,0 +1,17 @@
+{
+  "itemName" : "pat_moyai",
+	
+  "shortdescription" : "^shadow;moyai^white;",
+  "description" : "",
+  "category" : "headwear",
+	"tooltipFields" : {"subtitle" : ""},
+  "tooltipKind" : "tool",
+  "rarity" : "Essential",
+	
+  "inventoryIcon" : "icon.png",
+	"largeImage" : "moyai.png",
+	
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}
