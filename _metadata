@@ -1,10 +1,12 @@
 {
-  "version" : "1.0.1",
   "author" : "patman",
-  "tags" : "Armor and Clothes",
-  "description" : "i found a head for those ancient guardians that looks like the moyai\nso i made it a hat\n\nthis took like two minutes\n\n\nmake at spinning wheel\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/wXjYMqP.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
-  "name" : "pat_moyai",
+  "description" : "i found a head for the vault guardians that looks like moyai\nso i made it a hat\n\nit drops from vault guardians with that head",
   "friendlyName" : "moyai hat",
+  "link" : "steam://url/CommunityFilePage/2500443316",
+  "name" : "pat_moyai",
   "steamContentId" : "2500443316",
-  "link" : "steam://url/CommunityFilePage/2500443316"
+  "steamDescription" : "i found a head for the vault guardians that looks like 🗿\nso i made it a hat\n\ndrops from vault guardians if they  have the 🗿 head\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/moyai-hat",
+  "steamTitle" : "🗿moyai hat🗿",
+  "tags" : "Armor and Clothes",
+  "version" : "1.1"
 }
