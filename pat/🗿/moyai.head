@@ -4,7 +4,8 @@
   "shortdescription": "Moyai",
   "description": "moyai",
   "category": "headwear",
-  "rarity": "Essential",
+  "rarity": "Legendary",
+  "price": 5000,
   "tooltipKind": "back",
   "tooltipFields": { "objectImage": "/pat/🗿/moyai.png" },
 
