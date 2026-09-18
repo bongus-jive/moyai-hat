@@ -1,17 +1,17 @@
 {
-  "itemName" : "pat_moyai",
-	
-  "shortdescription" : "^shadow;moyai^white;",
-  "description" : "",
-  "category" : "headwear",
-	"tooltipFields" : {"subtitle" : ""},
-  "tooltipKind" : "tool",
-  "rarity" : "Essential",
-	
-  "inventoryIcon" : "icon.png",
-	"largeImage" : "moyai.png",
-	
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
-  "mask" : "mask.png"
+  "itemName": "pat_moyai",
+
+  "shortdescription": "Moyai",
+  "description": "moyai",
+  "category": "headwear",
+  "tooltipFields": { "objectImage": "/pat/🗿/moyai.png" },
+  "tooltipKind": "back",
+  "rarity": "Essential",
+
+  "inventoryIcon": "icon.png",
+  "largeImage": "moyai.png",
+
+  "maleFrames": "head.png",
+  "femaleFrames": "head.png",
+  "mask": "mask.png"
 }
