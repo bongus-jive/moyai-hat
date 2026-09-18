@@ -1,10 +1,3 @@
 [
-  [
-    { "op": "test", "path": "/partParameterDescription", "inverse": true },
-    { "op": "add", "path": "/partParameterDescription", "value": { } }
-  ],
-  [
-    { "op": "add", "path": "/partParameterDescription/pat_moyai", "value": [ "override", false ] },
-    { "op": "add", "path": "/baseParameters/scripts/-", "value": "/monsters/boss/guardianboss/pat_🗿.lua" }
-  ]
+  { "op": "add", "path": "/baseParameters/scripts/-", "value": "/monsters/boss/guardianboss/pat_🗿.lua" }
 ]

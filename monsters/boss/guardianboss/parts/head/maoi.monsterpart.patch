@@ -1,7 +1,0 @@
-[
-  [
-    { "op": "test", "path": "/parameters", "inverse": true },
-    { "op": "add", "path": "/parameters", "value": { } }
-  ],
-  [ { "op": "add", "path": "/parameters/pat_moyai", "value": true } ]
-]

@@ -1,8 +1,15 @@
 local _die = die
-function die(...)
-  if config.getParameter("pat_moyai") then
-    world.spawnItem("pat_moyai", entity.position())
-  end
 
-  if _die then _die(...) end
+function die(...)
+  pcall(function()
+    local portrait = world.entityPortrait(entity.id(), "full") or {}
+    for _, draw in ipairs(portrait) do
+      if draw.image and draw.image:find("/maoi.png", nil, true) then
+        world.spawnItem("pat_moyai", mcontroller.position())
+        break
+      end
+    end
+  end)
+
+  if _die then return _die(...) end
 end
