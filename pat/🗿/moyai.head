@@ -4,12 +4,11 @@
   "shortdescription": "Moyai",
   "description": "moyai",
   "category": "headwear",
-  "tooltipFields": { "objectImage": "/pat/🗿/moyai.png" },
-  "tooltipKind": "back",
   "rarity": "Essential",
+  "tooltipKind": "back",
+  "tooltipFields": { "objectImage": "/pat/🗿/moyai.png" },
 
   "inventoryIcon": "icon.png",
-  "largeImage": "moyai.png",
 
   "maleFrames": "head.png",
   "femaleFrames": "head.png",
