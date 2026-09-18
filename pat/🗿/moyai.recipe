@@ -1,8 +1,8 @@
 {
-  "input" : [
-    { "item" : "cobblestonematerial", "count" : 420 },
-    { "item" : "essence", "count" : 69 }
+  "input": [
+    { "item": "cobblestonematerial", "count": 420 },
+    { "item": "essence", "count": 69 }
   ],
-  "output" : { "item" : "pat_moyai", "count" : 1 },
-  "groups" : [ "craftingwheel2", "clothes" ]
+  "output": { "item": "pat_moyai", "count": 1 },
+  "groups": [ "craftingwheel2", "clothes" ]
 }
